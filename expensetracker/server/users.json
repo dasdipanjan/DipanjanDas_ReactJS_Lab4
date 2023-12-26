@@ -1,0 +1,15 @@
+{
+    "users": [{
+            "username": "das.dipanjan",
+            "password": "31082004",
+            "fullName": "Dipanjan Das",
+            "id": 1101
+        },
+        {
+            "username": "chinmoy.hota",
+            "password": "31112009",
+            "fullName": "Chinmoy Hota",
+            "id": 1102
+        }
+    ]
+}
